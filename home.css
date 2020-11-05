@@ -193,7 +193,7 @@ body{
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 10px;
-    
+    position: fixed;
     flex-wrap: wrap;
     border: 0.5px rgb(238, 232, 232) solid;
     
