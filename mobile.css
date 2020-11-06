@@ -9,6 +9,12 @@ body {
     flex-wrap: wrap;  
     padding-bottom: 200px;
     
+    
+}
+
+#aside{
+    padding-left: 30px;
+
 }
 
 #sketch {
